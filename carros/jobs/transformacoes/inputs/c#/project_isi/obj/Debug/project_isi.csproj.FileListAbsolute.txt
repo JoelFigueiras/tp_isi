@@ -1,0 +1,145 @@
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\project_isi.exe.config
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\project_isi.exe
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\project_isi.pdb
+C:\Users\joelf\Desktop\project_isi\project_isi\obj\Debug\project_isi.csproj.AssemblyReference.cache
+C:\Users\joelf\Desktop\project_isi\project_isi\obj\Debug\project_isi.csproj.SuggestedBindingRedirects.cache
+C:\Users\joelf\Desktop\project_isi\project_isi\obj\Debug\project_isi.csproj.CoreCompileInputs.cache
+C:\Users\joelf\Desktop\project_isi\project_isi\obj\Debug\project_isi.exe
+C:\Users\joelf\Desktop\project_isi\project_isi\obj\Debug\project_isi.pdb
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Buffers.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Memory.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Text.Json.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.ValueTuple.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Buffers.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Memory.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Text.Json.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\System.ValueTuple.xml
+C:\Users\joelf\Desktop\project_isi\project_isi\obj\Debug\project_isi.csproj.CopyComplete
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joelf\Desktop\project_isi\project_isi\bin\Debug\Newtonsoft.Json.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\project_isi.exe.config
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\project_isi.exe
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\project_isi.pdb
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\Newtonsoft.Json.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Buffers.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Memory.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Numerics.Vectors.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Text.Encodings.Web.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Text.Json.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.ValueTuple.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\Newtonsoft.Json.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Buffers.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Memory.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Numerics.Vectors.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Text.Encodings.Web.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Text.Json.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\bin\Debug\System.ValueTuple.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.AssemblyReference.cache
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.SuggestedBindingRedirects.cache
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.CoreCompileInputs.cache
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.CopyComplete
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\obj\Debug\project_isi.exe
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\project_isi\project_isi\project_isi\obj\Debug\project_isi.pdb
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\project_isi.exe.config
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\project_isi.exe
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\project_isi.pdb
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Buffers.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Memory.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Text.Json.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.ValueTuple.dll
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Buffers.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Memory.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Text.Json.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\bin\Debug\System.ValueTuple.xml
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.AssemblyReference.cache
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.CoreCompileInputs.cache
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\obj\Debug\project_isi.csproj.CopyComplete
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\obj\Debug\project_isi.exe
+C:\Users\Joel Figueiras\Desktop\project_isi\project_isi\project_isi\obj\Debug\project_isi.pdb
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\project_isi.exe.config
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\project_isi.exe
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\project_isi.pdb
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\Newtonsoft.Json.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Buffers.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Memory.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Numerics.Vectors.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Text.Encodings.Web.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Text.Json.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.ValueTuple.dll
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\Newtonsoft.Json.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Buffers.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Memory.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Numerics.Vectors.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Text.Encodings.Web.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Text.Json.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\bin\Debug\System.ValueTuple.xml
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\obj\Debug\project_isi.csproj.AssemblyReference.cache
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\obj\Debug\project_isi.csproj.SuggestedBindingRedirects.cache
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\obj\Debug\project_isi.csproj.CoreCompileInputs.cache
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\obj\Debug\project_isi.csproj.CopyComplete
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\obj\Debug\project_isi.exe
+H:\O meu disco\Universidade\3ºano\1º semestre\integração sistemas informação\c#\project_isi\obj\Debug\project_isi.pdb
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\project_isi.exe.config
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\project_isi.exe
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\project_isi.pdb
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\Newtonsoft.Json.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Buffers.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Memory.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Numerics.Vectors.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Text.Encodings.Web.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Text.Json.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.ValueTuple.dll
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\Newtonsoft.Json.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Buffers.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Memory.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Numerics.Vectors.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Text.Encodings.Web.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Text.Json.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\tp_isi\carros\inputs\c#\project_isi\bin\Debug\System.ValueTuple.xml
+E:\tp_isi\carros\inputs\c#\project_isi\obj\Debug\project_isi.csproj.AssemblyReference.cache
+E:\tp_isi\carros\inputs\c#\project_isi\obj\Debug\project_isi.csproj.SuggestedBindingRedirects.cache
+E:\tp_isi\carros\inputs\c#\project_isi\obj\Debug\project_isi.csproj.CoreCompileInputs.cache
+E:\tp_isi\carros\inputs\c#\project_isi\obj\Debug\project_isi.csproj.CopyComplete
+E:\tp_isi\carros\inputs\c#\project_isi\obj\Debug\project_isi.exe
+E:\tp_isi\carros\inputs\c#\project_isi\obj\Debug\project_isi.pdb
