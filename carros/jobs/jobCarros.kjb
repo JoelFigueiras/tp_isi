@@ -306,7 +306,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>144</xloc>
-      <yloc>192</yloc>
+      <yloc>160</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -344,8 +344,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>304</xloc>
-      <yloc>192</yloc>
+      <xloc>144</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -383,8 +383,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>480</xloc>
-      <yloc>192</yloc>
+      <xloc>288</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -422,8 +422,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>816</xloc>
-      <yloc>192</yloc>
+      <xloc>560</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -434,8 +434,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>1440</xloc>
-      <yloc>192</yloc>
+      <xloc>1152</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -447,8 +447,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>1008</xloc>
-      <yloc>192</yloc>
+      <xloc>688</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -460,8 +460,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>192</yloc>
+      <xloc>432</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -469,29 +469,29 @@
       <description/>
       <type>ABORT</type>
       <attributes/>
-      <message/>
+      <message>falta o ficheiro de carros superior a 100000km</message>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>640</xloc>
-      <yloc>320</yloc>
+      <xloc>432</xloc>
+      <yloc>384</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
-      <name>Abort job 2</name>
+      <name>Abort job </name>
       <description/>
       <type>ABORT</type>
       <attributes/>
-      <message/>
+      <message>falta ficheiro carros inferiores a 100000km</message>
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>1008</xloc>
-      <yloc>80</yloc>
+      <xloc>688</xloc>
+      <yloc>384</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
-      <name>Transformation</name>
+      <name>&gt;100000km_separado_combustivel</name>
       <description/>
       <type>TRANS</type>
       <attributes/>
@@ -525,12 +525,12 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>1152</xloc>
-      <yloc>192</yloc>
+      <xloc>832</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
-      <name>Transformation 2</name>
+      <name>&lt;100000km_separado_combustivel</name>
       <description/>
       <type>TRANS</type>
       <attributes/>
@@ -564,8 +564,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>1296</xloc>
-      <yloc>192</yloc>
+      <xloc>1024</xloc>
+      <yloc>272</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
@@ -626,7 +626,7 @@
     </hop>
     <hop>
       <from>temos dados?</from>
-      <to>Abort job 2</to>
+      <to>Abort job </to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -635,7 +635,7 @@
     </hop>
     <hop>
       <from>temos dados?</from>
-      <to>Transformation</to>
+      <to>&gt;100000km_separado_combustivel</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -643,8 +643,8 @@
       <unconditional>Y</unconditional>
     </hop>
     <hop>
-      <from>Transformation</from>
-      <to>Transformation 2</to>
+      <from>&gt;100000km_separado_combustivel</from>
+      <to>&lt;100000km_separado_combustivel</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -652,7 +652,7 @@
       <unconditional>Y</unconditional>
     </hop>
     <hop>
-      <from>Transformation 2</from>
+      <from>&lt;100000km_separado_combustivel</from>
       <to>Success</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>

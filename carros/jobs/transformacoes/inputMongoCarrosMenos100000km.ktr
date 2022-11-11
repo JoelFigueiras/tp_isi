@@ -444,11 +444,11 @@
     </hop>
     <hop>
       <from>carros&lt;100000km</from>
-      <to>Sort rows</to>
+      <to>Ordenar por km's</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Sort rows</from>
+      <from>Ordenar por km's</from>
       <to>XML output</to>
       <enabled>Y</enabled>
     </hop>
@@ -497,13 +497,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>144</xloc>
+      <xloc>224</xloc>
       <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Sort rows</name>
+    <name>Ordenar por km's</name>
     <type>SortRows</type>
     <description/>
     <distribute>Y</distribute>
@@ -539,7 +539,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>512</xloc>
+      <xloc>480</xloc>
       <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
@@ -689,7 +689,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>688</xloc>
+      <xloc>576</xloc>
       <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
@@ -851,7 +851,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>336</xloc>
+      <xloc>368</xloc>
       <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>

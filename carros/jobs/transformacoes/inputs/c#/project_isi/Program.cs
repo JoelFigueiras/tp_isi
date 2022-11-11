@@ -21,7 +21,6 @@ namespace project_isi
         //[A-Z](([a-z]|[A-Z])+) (combustivel)
         // [A-Z]([a-z]+) (tipo de caixa velocidades)
         //[A-Z]([a-z]+) (numero propietario)
-        //@"^[A-Z][a-z]* ([A-Z]|[0-9])([a-z]|[0-9]).*,([1]|[2])[0-9]{3},[0-9]*,[0-9]*,[A-Z](([a-z]|[A-Z])+),[A-Z]([a-z]+),[A-Z]([a-z]+))$";
         static void Main(string[] args)
         {
 
@@ -53,14 +52,11 @@ namespace project_isi
                     string n_dono = campos[7];
                     string tipo_dono = campos[5];
                     Veiculo veiculo = new Veiculo(nome, ano, preco, km, fuel, transmissao, n_dono, tipo_dono);
-
                     listaVeiculos.Add(veiculo);
 
                 }
                 else
                 {
-
-
                     Console.WriteLine($"{line}");
                 }
 
@@ -73,15 +69,15 @@ namespace project_isi
 
             if (!File.Exists(destinojson))
             {
-                File.WriteAllText(destinojson, jsonString);
+                File.WriteAllText(destinojson, jsonString); 
+                
             }
-            else
+
+           if(!File.Exists(destinoxml))
             {
-                File.WriteAllText(destinojson, jsonString);
+                XNode node = JsonConvert.DeserializeXNode(jsonString, "Carros");
+                File.WriteAllText(destinoxml, node.ToString());
             }
-            XNode node = JsonConvert.DeserializeXNode(jsonString, "Carros");
-            XmlDocument doc = new XmlDocument();
-            File.WriteAllText(destinoxml, node.ToString());
 
         }
     }
