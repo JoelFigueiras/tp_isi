@@ -1,0 +1,600 @@
+[
+    {
+        "id": "1cf9939858a59bd3",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "c6ba69f2020df44c",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2dd7c984e6764d7f",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "d46fef3e5261637b",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0ff07c",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "Arial Black,Arial Black,Gadget,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "Arial Black,Arial Black,Gadget,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "TP_ISI 2022",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "926f70771ae27709",
+        "type": "ui_group",
+        "name": "Preço mais alto/ baixo",
+        "tab": "387928d83c185026",
+        "order": 12,
+        "disp": true,
+        "width": "9",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "52adef439f29c7c4",
+        "type": "ui_group",
+        "name": "Inserir Automóvel",
+        "tab": "",
+        "order": 7,
+        "disp": true,
+        "width": "8",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "652d72a31611979f",
+        "type": "ui_tab",
+        "name": "Total Automóveis",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "22bfc97456090e8e",
+        "type": "ui_group",
+        "name": "Total Automóveis",
+        "tab": "387928d83c185026",
+        "order": 13,
+        "disp": true,
+        "width": "7",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "500363f812d82653",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "387928d83c185026",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "eeadb96d0d6570cd",
+        "type": "mqtt in",
+        "z": "1cf9939858a59bd3",
+        "name": "subscribe",
+        "topic": "carros/carro",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "2dd7c984e6764d7f",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 80,
+        "y": 300,
+        "wires": [
+            [
+                "f65bb2a77dd7cd5e",
+                "e99c207e1035a49b",
+                "45b09890dcda6622"
+            ]
+        ]
+    },
+    {
+        "id": "489c21e4256a7ab5",
+        "type": "debug",
+        "z": "1cf9939858a59bd3",
+        "name": "debug 1",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "f65bb2a77dd7cd5e",
+        "type": "function",
+        "z": "1cf9939858a59bd3",
+        "name": "conta numero carros Diesel, Gasolina, Elétricos",
+        "func": "var diesel = flow.get(\"diesel\") || 0;\nvar petrol = flow.get(\"petrol\") || 0;\nvar eletrico = flow.get(\"eletrico\") || 0;  \nif (msg.topic == \"iniciar\")\n{\n    diesel=0;\n    petrol=0;\n    eletrico=0;\n}\nelse \n{\n    if (msg.payload.Carro[0].Fuel == \"Diesel\")\n    {\n        diesel++;\n    }\n    else if (msg.payload.Carro[0].Fuel == \"Petrol\") {\n        petrol++;\n\n    }\n    else if (msg.payload.Carro[0].Fuel == \"CNG\") {\n        eletrico++;\n\n    }\n    \n    \n}\n\nflow.set(\"diesel\", diesel);\nflow.set(\"petrol\", petrol);\nflow.set(\"eletrico\", eletrico);\n\nmsg.payload = {\n    \"diesel\": diesel,\n    \"petrol\": petrol,\n    \"eletrico\":eletrico\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 500,
+        "y": 60,
+        "wires": [
+            [
+                "e7a9d9816a0ae675",
+                "489c21e4256a7ab5"
+            ]
+        ]
+    },
+    {
+        "id": "e7a9d9816a0ae675",
+        "type": "function",
+        "z": "1cf9939858a59bd3",
+        "name": "cria gráfico",
+        "func": "var grafico = [{\n    \"data\": [\n        msg.payload.diesel,\n        msg.payload.petrol,\n        msg.payload.eletrico],\n        \n    \"labels\": [\"Diesel\", \"Gasolina\",\"Elétrico\"],\n    \"series\": [\"\"],\n}];\n\nmsg.payload = grafico;\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 850,
+        "y": 120,
+        "wires": [
+            [
+                "4d5dbe70fa61dd06"
+            ]
+        ]
+    },
+    {
+        "id": "45b09890dcda6622",
+        "type": "function",
+        "z": "1cf9939858a59bd3",
+        "name": "Nome Automóvel com preço mais alto e mais baixo",
+        "func": "var nomeBarato = flow.get(\"nome1\") || \"nao encontrado\";\nvar nomeCaro = flow.get(\"nome2\") || \"nao encontrado\";\nvar precobarato = flow.get(\"barato\") || 0;\nvar precocaro = flow.get(\"caro\") || 0;\nvar barato = flow.get(\"barato\") || msg.payload.Carro[0].Preco;\nvar caro = flow.get(\"caro\") || msg.payload.Carro[0].Preco;\nif (msg.topic == \"iniciar\") {\n    nomeBarato = \"não encontrado\"\n    nomeCaro = \"não encontrado\"\n}else{\n    if (msg.payload.Carro[0].Preco >= caro) {\n        caro = msg.payload.Carro[0].Preco\n    }\n    else if (msg.payload.Carro[0].Preco <= barato) {\n        barato = msg.payload.Carro[0].Preco\n    }\n\n    flow.set(\"caro\", caro)\n    flow.set(\"barato\", barato)\n    if (msg.payload.Carro[0].Preco >= caro) {\n        caro = msg.payload.Carro[0].Preco\n    }\n    else if (msg.payload.Carro[0].Preco <= barato) {\n        barato = msg.payload.Carro[0].Preco\n    }\n\n    flow.set(\"caro\", caro)\n    flow.set(\"barato\", barato)\n\n\n    if (msg.payload.Carro[0].Preco == precobarato) {\n        nomeBarato = msg.payload.Carro[0].Nome;\n\n    }\n    else if (msg.payload.Carro[0].Preco == precocaro) {\n        nomeCaro = msg.payload.Carro[0].Nome;\n\n    }\n    \n}\n\n\n\n\nflow.set(\"nome1\", nomeBarato);\nflow.set(\"nome2\", nomeCaro);\n\nmsg.payload = {\n    \"nome1\": nomeBarato,\n    \"nome2\": nomeCaro,\n}\n\nreturn msg;\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 400,
+        "wires": [
+            [
+                "29681d5886b0ca27",
+                "402ba459ff711bfb",
+                "9dc727e4ce59baf3"
+            ]
+        ]
+    },
+    {
+        "id": "e99c207e1035a49b",
+        "type": "function",
+        "z": "1cf9939858a59bd3",
+        "name": "preço mais alto/mais baixo",
+        "func": "var barato = flow.get(\"barato\") || msg.payload.Carro[0].Preco;\nvar caro = flow.get(\"caro\") || msg.payload.Carro[0].Preco;\nif(msg.topic == \"iniciar\")\n{\n    barato=0;\n    caro=0;\n}else\n{\n    if (msg.payload.Carro[0].Preco >= caro) {\n        caro = msg.payload.Carro[0].Preco\n    }\n    else if (msg.payload.Carro[0].Preco <= barato) {\n        barato = msg.payload.Carro[0].Preco\n    }\n    flow.set(\"caro\", caro)\n    flow.set(\"barato\", barato)\n\n    \n\n}\nmsg.payload = {\n    \"caro\": caro,\n    \"barato\": barato\n}\n\nreturn msg;\n    \n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 240,
+        "wires": [
+            [
+                "f4843c78934c0c26",
+                "9e0f07972128862f"
+            ]
+        ]
+    },
+    {
+        "id": "d75a5f04ca4b5b08",
+        "type": "inject",
+        "z": "1cf9939858a59bd3",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "iniciar",
+        "payload": "",
+        "payloadType": "date",
+        "x": 100,
+        "y": 60,
+        "wires": [
+            [
+                "f65bb2a77dd7cd5e",
+                "45b09890dcda6622",
+                "e99c207e1035a49b"
+            ]
+        ]
+    },
+    {
+        "id": "9d46779394242727",
+        "type": "debug",
+        "z": "1cf9939858a59bd3",
+        "name": "debug 2",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "f4843c78934c0c26",
+        "type": "change",
+        "z": "1cf9939858a59bd3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "msg.payload.caro",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 160,
+        "wires": [
+            [
+                "9d46779394242727",
+                "f35d0f7479e9f23e"
+            ]
+        ]
+    },
+    {
+        "id": "9e0f07972128862f",
+        "type": "change",
+        "z": "1cf9939858a59bd3",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "msg.payload.barato",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 300,
+        "wires": [
+            [
+                "cb5ddf9dd72240e4"
+            ]
+        ]
+    },
+    {
+        "id": "f35d0f7479e9f23e",
+        "type": "ui_gauge",
+        "z": "1cf9939858a59bd3",
+        "name": "",
+        "group": "926f70771ae27709",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Automóvel preço mais elevado",
+        "label": "Reais",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "10000000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1130,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "cb5ddf9dd72240e4",
+        "type": "ui_gauge",
+        "z": "1cf9939858a59bd3",
+        "name": "",
+        "group": "926f70771ae27709",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Automóvel preço menos elevado",
+        "label": "Reais",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1140,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "29681d5886b0ca27",
+        "type": "ui_text",
+        "z": "1cf9939858a59bd3",
+        "group": "926f70771ae27709",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Automóvel mais caro ->",
+        "format": "{{msg.payload.nome2}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1110,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "402ba459ff711bfb",
+        "type": "ui_text",
+        "z": "1cf9939858a59bd3",
+        "group": "926f70771ae27709",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Automóvel mais barato ->",
+        "format": "{{msg.payload.nome1}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1110,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "9dc727e4ce59baf3",
+        "type": "debug",
+        "z": "1cf9939858a59bd3",
+        "name": "debug 3",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "4d5dbe70fa61dd06",
+        "type": "ui_chart",
+        "z": "1cf9939858a59bd3",
+        "name": "",
+        "group": "22bfc97456090e8e",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "Gráfico nº Automóveis",
+        "chartType": "horizontalBar",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1100,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7c0f75d5ecc45268",
+        "type": "comment",
+        "z": "1cf9939858a59bd3",
+        "name": "mqtt in",
+        "info": "",
+        "x": 70,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "c839b5723fa0857b",
+        "type": "comment",
+        "z": "1cf9939858a59bd3",
+        "name": "Iniciar",
+        "info": "",
+        "x": 90,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "06d18d4931355b48",
+        "type": "comment",
+        "z": "1cf9939858a59bd3",
+        "name": "debug function",
+        "info": "",
+        "x": 880,
+        "y": 20,
+        "wires": []
+    }
+]

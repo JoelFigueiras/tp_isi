@@ -704,7 +704,7 @@
     <append>N</append>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>E:\tp_isi\foguetoes_spacex\resultados\split</name>
+      <name>${Internal.Transformation.Filename.Directory}/resultados/resultado</name>
       <extention>xls</extention>
       <do_not_open_newfile_init>N</do_not_open_newfile_init>
       <create_parent_folder>N</create_parent_folder>
